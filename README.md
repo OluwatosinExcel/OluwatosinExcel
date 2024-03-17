@@ -1,7 +1,7 @@
 👋 Hi, I'm Oluwatosin, a data analyst from Nigeria.
 
 
-🙋‍♀️ About Me
+# 🙋‍♀️ About Me
 
 
 •	📊 I am currently open to entry-level data analyst position.
@@ -10,7 +10,7 @@
 
 •	👗 Fashion Enthusiast.
 
-🛠 Skills and Tools
+# 🛠 Skills and Tools
 
 
 •	Tools: Tableau; SQL(JOINS, CTEs, Subqueries, UNIONs); R(ggplot2, tidyverse); Excel(Pivot tables, Vlookup, Charts); Python(Pandas, Numpy); Git.
@@ -18,22 +18,22 @@
 •	Skills: Critical Thinking, Problem-Solving, Communication, Technical Writing, Leadership, Team Collaboration, Time Management.
 
 
-📚 Projects
+# 📚 Projects
 
 
-•	View my portfolio projects on my website.
+•	View my portfolio projects on my [website](https://oluwatosinexcel.github.io/BabalolaOluwatosin.github.io/index.html).
 
-•	View my coding projects on GitHub.
+•	View my coding projects on [GitHub](https://github.com/OluwatosinExcel).
 
-•	View my data visualizations on Tableau Public.
+•	View my data visualizations on [Tableau Public](https://public.tableau.com/app/profile/babalolatosin/vizzes).
 
 
-⭐ Favorite Projects
+# ⭐ Favorite Projects
 
 
 •	 [Inflation](https://github.com/OluwatosinExcel/Global-Inflation) - With the alarming rate of inflation in my country(Nigeria), I analyzed the global inflation rate to see what position Nigeria is in the world concerning inflation.
 
-📫 Connect with Me
+# 📫 Connect with Me
 
 
 •	[Website](https://oluwatosinexcel.github.io/BabalolaOluwatosin.github.io/index.html)
