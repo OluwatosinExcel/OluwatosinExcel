@@ -31,7 +31,8 @@
 # ⭐ Favorite Projects
 
 
-•	 [Inflation](https://github.com/OluwatosinExcel/Global-Inflation) - With the alarming rate of inflation in my country(Nigeria), I analyzed the global inflation rate to see what position Nigeria is in the world concerning inflation.
+•	 [INFLATION](https://github.com/OluwatosinExcel/Global-Inflation) - With the alarming rate of inflation in my country(Nigeria), I analyzed the global inflation rate to see what position Nigeria is in the world concerning inflation.
+•	[TIKTOK](https://github.com/OluwatosinExcel/TIKTOK-PROJECT) - This project highlights the power of data in driving social media growth as i grew my tiktok channel by over 6000 followers in two(2) months.
 
 # 📫 Connect with Me
 
