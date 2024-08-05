@@ -4,7 +4,7 @@
 # 🙋‍♀️ About Me
 
 
-•	📊 I am currently open to entry-level data analyst position.
+•	📊 I am currently open to data analyst position.
 
 •	📐 Degree in Statistics, National Diploma in Mathematics and Statistics, Google Data Analytics Certification.
 
@@ -13,7 +13,7 @@
 # 🛠 Skills and Tools
 
 
-•	Tools: Tableau; SQL(JOINS, CTEs, Subqueries, UNIONs); R(ggplot2, tidyverse); Excel(Pivot tables, Vlookup, Charts); Python(Pandas, Numpy); Git.
+•	Tools: Tableau; SQL(JOINS, CTEs, Subqueries, temp Tables, UNIONs); R(ggplot2, tidyverse); Excel(Pivot tables, Vlookup, Charts); Python(Pandas, Numpy); Git.
 
 •	Skills: Critical Thinking, Problem-Solving, Communication, Technical Writing, Leadership, Team Collaboration, Time Management.
 
