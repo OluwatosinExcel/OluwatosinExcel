@@ -1,4 +1,4 @@
-👋 Hi, I'm Oluwatosin, a data analyst from Nigeria.
+👋 Hi, I'm Oluwatosin, a data analyst and machine learning engineer from Nigeria.
 
 
 # 🙋‍♀️ About Me
@@ -13,7 +13,7 @@
 # 🛠 Skills and Tools
 
 
-•	Tools: Tableau; SQL(JOINS, CTEs, Subqueries, temp Tables, UNIONs); R(ggplot2, tidyverse); Excel(Pivot tables, Vlookup, Charts); Python(Pandas, Numpy); Git.
+•	Tools: Tableau; SQL(JOINS, CTEs, Subqueries, temp Tables, UNIONs); R(ggplot2, tidyverse); Excel(Pivot tables, Vlookup, Charts); Python(Pandas, Numpy, Matplotlib); Git.
 
 •	Skills: Critical Thinking, Problem-Solving, Communication, Technical Writing, Leadership, Team Collaboration, Time Management.
 
