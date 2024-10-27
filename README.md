@@ -21,7 +21,7 @@
 # 📚 Projects
 
 
-•	View my portfolio projects on my [website](https://oluwatosinexcel.github.io/BabalolaOluwatosin.github.io/index.html).
+•	View my portfolio projects on my [website](https://oluwatosinexcel.github.io/Oluwatosin.github.io/).
 
 •	View my coding projects on [GitHub](https://github.com/OluwatosinExcel).
 
@@ -31,7 +31,7 @@
 # ⭐ Favorite Projects
 
 
-•	 [INFLATION](https://github.com/OluwatosinExcel/Global-Inflation) - With the alarming rate of inflation in my country(Nigeria), I analyzed the global inflation rate to see what position Nigeria is in the world concerning inflation.
+•	 [Body Type Predictor](bodytypepredictor.streamlit.app) - With the alarming rate of inflation in my country(Nigeria), I analyzed the global inflation rate to see what position Nigeria is in the world concerning inflation.
 
 •	[TIKTOK](https://github.com/OluwatosinExcel/TIKTOK-PROJECT) - This project highlights the power of data in driving social media growth as i grew my tiktok channel by over 6000 followers in two(2) months.
 
